@@ -258,6 +258,7 @@ section{
     gap: 2rem;
     margin-bottom: 2rem;
     margin-top: 2rem;
+    display: flex;
     flex-wrap: wrap;
 }
 
